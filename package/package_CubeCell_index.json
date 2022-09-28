@@ -5,12 +5,12 @@
       "help": {
         "online": "http://heltec.cn"
       },
-      "websiteURL": "https://github.com/HelTecAutomation/ASR650x-Arduino",
+      "websiteURL": "https://github.com/Srizza88/CubeCell-Arduino",
       "platforms": [
         {
           "category": "CubeCell",
           "name": "CubeCell Dev-boards",
-          "url": "https://github.com/HelTecAutomation/ASR650x-Arduino/archive/0.0.1.zip",
+          "url": "https://github.com/Srizza88/CubeCell-Arduino/archive/0.0.1.zip",
           "checksum": "SHA-256:19cf63ab95d8b640194764028bc483cbb021904c9aa55a8f68a5b792ea19e164",
           "help": {
             "online": ""
@@ -45,7 +45,7 @@
         {
           "category": "CubeCell",
           "name": "CubeCell Dev-boards",
-          "url": "https://github.com/HelTecAutomation/ASR650x-Arduino/archive/0.0.2.zip",
+          "url": "https://github.com/Srizza88/CubeCell-Arduino/archive/0.0.2.zip",
           "checksum": "SHA-256:03b7cc8c078210f9199924b7c8711ee6861491ef0899a83a493e802299111bdb",
           "help": {
             "online": ""
